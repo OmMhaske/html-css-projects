@@ -1,0 +1,13 @@
+.outer
+{
+
+}
+.inner
+{
+     margin: auto;
+     border: ;
+     padding: 20px;
+     height: 380px;
+     width: 550px;
+     border-style: double;
+}

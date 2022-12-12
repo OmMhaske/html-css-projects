@@ -1,0 +1,18 @@
+.outer
+{
+    /* background-color: aqua; */
+}
+.inner
+{
+    /* background-color: antiquewhite; */
+    margin: auto;
+     width: 200px;
+    height: 450px; 
+    border-style: inset;
+    border-color:blueviolet;
+    border-width: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 50px;
+    
+}
